@@ -1,3 +1,33 @@
 h1{
-    background-color: blueviolet;
+    background-color: #232f3e;
+    font-family: serif;
+    font-size: 150%;
+}
+
+p{
+    color: cornflowerblue;
+    font-size: x-large;
+}
+
+table{
+    border: 1;
+}
+th{
+    background-color: cornsilk;
+}
+
+td{
+    background-color: lightcyan;
+}
+
+
+.diseño_caja1{
+    width: 50%;
+    height: 100px;
+    border: 1;
+    color: blue;
+}
+
+#parrafo1{
+    color: darkgreen;
 }
